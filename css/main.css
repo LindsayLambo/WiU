@@ -197,6 +197,7 @@ footer{
 		}
 		figcaption{
 			display: none;
+			font-size:125%;
 		}
 		.sec{
 			margin-top: 10px;
