@@ -1,11 +1,11 @@
 
 /*-------------------------------------------  general -------------------------------------------------------*/
 body{
-	font-size: 62.5%;
+	font-size: 64%;
 	font-family: helvetica, arial, sans-serif;
 	color:#9cf; /*changes color of the whole text*/
 	margin-top: 0;
-	background-color:#09c;
+	background-image: url("../img/background-landing-01.png");
 	font-weight:bold;
 	box-shadow:0 2px 3px 0 #033;
 }
